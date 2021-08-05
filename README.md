@@ -1,7 +1,7 @@
-# Exercise 1: Submit a pull request to OpenFIGI
+# Exercise 1: Submit a pull request to OpenFIGI (the nedgm fork)
 
 ### About
-You will need to write an example that is able to make use of the OpenFIGI (/v3/mapping) API. Then, once your program is behaving as expected - take a look at the existing structure of the code in the [OpenFIGI API Examples repository](https://github.com/OpenFIGI/api-examples), clean up your code where necessary, and add submit a pull request with your example program to the [OpenFIGI-API-examples](https://github.com/OpenFIGI/api-examples) repository
+You will need to write an example that is able to make use of the OpenFIGI (/v3/mapping) API. Then, once your program is behaving as expected - take a look at the existing structure of the code in the forked [OpenFIGI API Examples repository](https://github.com/nedgm/api-examples), clean up your code where necessary, and add submit a pull request with your example program to the [OpenFIGI-API-examples](https://github.com/nedgm/api-examples) repository.
 
 
 ### Pre-requisites
@@ -10,9 +10,9 @@ You will need to write an example that is able to make use of the OpenFIGI (/v3/
 
 
 ### Instructions
-1. Clone the openFIGI examples API repository
-2. Write an example in a language that hasnt been implimented yet
-3. Submit pull request to https://github.com/OpenFIGI/api-examples
+1. Clone the forked OpenFIGI examples API repository
+2. Write an example in a language that hasn't yet been implemented
+3. Submit pull request to https://github.com/nedgm/api-examples
 
 
 ### Example inputs
@@ -103,4 +103,5 @@ As outputs, your program should print the response object to the console. eg
 ### Useful links
 * OpenFIGI Website: https://www.openfigi.com/
 * OpenFIGI API Examples Repo: https://github.com/OpenFIGI/api-examples
+* Fork of OpenFIGI API Examples Repo: https://github.com/nedgm/api-examples
 * How to submit a pull request: https://opensource.com/article/19/7/create-pull-request-github
